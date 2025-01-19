@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+astrapy
+spacy
+pytrends
+pandas
+google-generativeai
+pydantic

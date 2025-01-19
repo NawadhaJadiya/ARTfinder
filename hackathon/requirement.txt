@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+astrapy>=0.7.4
+requests
+google-generativeai
+spacy
+pandas
+python-dotenv
